@@ -68,8 +68,8 @@ git clone https://github.com/Kashishsanghi12/shorting-visualizer.git
 
 ## 🔗 Project Links
 
-- **GitHub Repository:** https://github.com/Kashishsanghi12/shorting-visualizer
-- **Live Demo:** Add your deployed website URL here.
+- **GitHub Repository:** https://github.com/Kashishsanghi12/sorting-visualizer
+- **Live Demo:**  https://kashishsanghi12.github.io/sorting-visualizer/
 
 ## 👩‍💻 Author
 
